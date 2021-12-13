@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi ther, I'm Danil 👋
 
-<!--
-**dborodin836/dborodin836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on pet projects
+- 🌱 I’m currently learning React, Django
+- 🥅 2022 Goals: Leart a lot of information
+- ⚡ Fun fact: I love cookies!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="dborodin836 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dborodin836 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/dborodin836  
+[instagram]: https://instagram.com/dborodin836
+[linkedin]: https://linkedin.com/in/dborodin836
