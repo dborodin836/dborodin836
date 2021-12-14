@@ -1,4 +1,4 @@
-### Hi ther, I'm Danil 👋
+### Hi there, I'm Danil 👋
 
 - 🔭 I’m currently working on pet projects
 - 🌱 I’m currently learning React, Django
