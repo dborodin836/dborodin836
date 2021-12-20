@@ -1,7 +1,7 @@
 ### Hi there, I'm Danil 👋
 
 - 🔭 I’m currently working on pet projects
-- 🌱 I’m currently learning React, Django
+- 🌱 I’m currently learning React, Django, HTML, CSS
 - 🥅 2022 Goals: Leart a lot of information
 - ⚡ Fun fact: I love cookies!
 
